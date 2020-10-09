@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d075bc5-4bd7-4746-8b3c-ef4fa2234cc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameofLife3D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameofLife3D.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/GameofLife3D.compute" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/GameofLife3D.compute" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/GameofLifeSurf3D.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/GameofLifeSurf3D.shader" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Shaders/GameofLifeSurf3D.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/GameofLife3D.compute" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameofLife3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1id5QG7QoJw1q8sSiJ899ZvrHXZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1602224611093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602224611093</updated>
+      <workItem from="1602224620425" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
