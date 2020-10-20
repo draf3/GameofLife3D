@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿////////////////////////////////////////////////////////////////////////
+// Project Name    : Game of life 3D
+// File Name       : GameofLife3D.cs
+// Creation Date   : 2020/10/20
+// Lisence         : MIT
+// 
+// Copyright © 2020 taki corporation. All rights reserved.
+////////////////////////////////////////////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using UnityEngine;
